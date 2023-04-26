@@ -1,0 +1,936 @@
+{
+  "Aimbot": [
+    {
+      "Fov": 4.91,
+      "Smooth": 11.08
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Backtrack": {
+    "Time limit": 57
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#00ffea",
+          "Enabled": true
+        },
+        "Flash Duration": {
+          "Alpha": 1.0,
+          "Color": "#0119ff",
+          "Enabled": true
+        },
+        "Health Bar": {
+          "Enabled": true
+        },
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#00f407",
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#ed00f1",
+          "Enabled": true
+        },
+        "Snapline": {
+          "Alpha": 1.0,
+          "Color": "#f100cf"
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    },
+    "Projectiles": {
+      "All": {
+        "Box": {
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Snapline": {
+          "Alpha": 1.0,
+          "Color": "#f00000",
+          "Enabled": true
+        },
+        "Trails": {
+          "Allies": {
+            "Enabled": true
+          },
+          "Enabled": true,
+          "Enemies": {
+            "Enabled": true
+          },
+          "Local Player": {
+            "Enabled": true
+          }
+        }
+      }
+    },
+    "Toggle Key": "0"
+  },
+  "Inventory Changer": {
+    "Items": [
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Talon Knife",
+        "Paint Kit": 856,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 243,
+        "Weapon ID": 523,
+        "Wear": 4.39935e-05
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 24,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 69,
+        "Weapon ID": 1314
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 54,
+        "Item Name": "Music Kit",
+        "Music ID": 15,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Sir Bloody Miami Darryl | The Professionals",
+        "Weapon ID": 4726
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "Number K | The Professionals",
+        "Weapon ID": 4732
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10070,
+        "Paint Kit Name": "Snow Leopard",
+        "Seed": 196,
+        "Weapon ID": 5031,
+        "Wear": 0.21003905
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10048,
+        "Paint Kit Name": "Vice",
+        "Seed": 809,
+        "Weapon ID": 5030,
+        "Wear": 0.68783283
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10019,
+        "Paint Kit Name": "Arid",
+        "Seed": 774,
+        "Weapon ID": 5030,
+        "Wear": 0.21886146
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "AK-47",
+        "Paint Kit": 302,
+        "Paint Kit Name": "Vulcan",
+        "Seed": 790,
+        "Weapon ID": 7,
+        "Wear": 0.18710358
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 562,
+        "Paint Kit Name": "Lore",
+        "Seed": 877,
+        "Weapon ID": 508,
+        "Wear": 0.2532699
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10047,
+        "Paint Kit Name": "Omega",
+        "Seed": 116,
+        "Weapon ID": 5030,
+        "Wear": 0.2724549
+      },
+      {
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10041,
+        "Paint Kit Name": "King Snake",
+        "Seed": 156,
+        "Weapon ID": 5031,
+        "Wear": 0.2117796
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10037,
+        "Paint Kit Name": "Pandora's Box",
+        "Seed": 62,
+        "Weapon ID": 5030,
+        "Wear": 0.75518274
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 962,
+        "Paint Kit Name": "Printstream",
+        "Seed": 119,
+        "Weapon ID": 1,
+        "Wear": 0.0070086415
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "USP-S",
+        "Paint Kit": 1142,
+        "Paint Kit Name": "Printstream",
+        "Seed": 853,
+        "Weapon ID": 61,
+        "Wear": 0.00030552247
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "M4A1-S",
+        "Paint Kit": 984,
+        "Paint Kit Name": "Printstream",
+        "Seed": 163,
+        "Weapon ID": 60,
+        "Wear": 9.877997e-05
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 411,
+        "Paint Kit Name": "Damascus Steel",
+        "Seed": 101,
+        "Weapon ID": 515,
+        "Wear": 0.15349425
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1105,
+        "Paint Kit Name": "Lore",
+        "Seed": 95,
+        "Weapon ID": 515,
+        "Wear": 0.30675703
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 191,
+        "Weapon ID": 515,
+        "Wear": 0.28208196
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 773,
+        "Weapon ID": 508,
+        "Wear": 0.07580787
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 720,
+        "Weapon ID": 507,
+        "Wear": 0.29041344
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 72,
+        "Paint Kit Name": "Safari Mesh",
+        "Seed": 320,
+        "Weapon ID": 515,
+        "Wear": 0.06078852
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 581,
+        "Paint Kit Name": "Freehand",
+        "Seed": 564,
+        "Weapon ID": 515,
+        "Wear": 0.0114445975
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 0,
+        "Paint Kit Name": "",
+        "Seed": 137,
+        "Weapon ID": 515,
+        "Wear": 0.047232874
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 192,
+        "Weapon ID": 515,
+        "Wear": 0.03957067
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 987,
+        "Weapon ID": 515,
+        "Wear": 0.0025897818
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 98,
+        "Paint Kit Name": "Ultraviolet",
+        "Seed": 752,
+        "Weapon ID": 515,
+        "Wear": 0.07764409
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 610,
+        "Weapon ID": 515,
+        "Wear": 0.0670239
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Karambit",
+        "Paint Kit": 409,
+        "Paint Kit Name": "Tiger Tooth",
+        "Seed": 877,
+        "Weapon ID": 507,
+        "Wear": 0.0038482053
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 128,
+        "Weapon ID": 9,
+        "Wear": 0.015158552
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "Dragon Lore",
+        "Seed": 744,
+        "Weapon ID": 9,
+        "Wear": 0.030168042
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 51,
+        "Paint Kit Name": "Lightning Strike",
+        "Seed": 70,
+        "Weapon ID": 9,
+        "Wear": 0.0019656764
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1026,
+        "Paint Kit Name": "Fade",
+        "Seed": 757,
+        "Weapon ID": 9,
+        "Wear": 0.0010828091
+      }
+    ],
+    "Version": 4
+  },
+  "Misc": {
+    "Anti AFK kick": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Fast Stop": true,
+    "Fast plant": true,
+    "Grenade predict": true,
+    "Reportbot": {
+      "Abusive Communications": true,
+      "Griefing": true
+    },
+    "Reveal money": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Reveal votes": true,
+    "Spectator list": {
+      "Enabled": true
+    }
+  },
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.2
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    }
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "No 3d sky": true,
+    "No grass": true,
+    "No shadows": true,
+    "Sky": {
+      "Color": [
+        0.8809519,
+        0.0,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "World": {
+      "Color": [
+        1.0,
+        0.0,
+        0.78571415
+      ]
+    }
+  }
+}

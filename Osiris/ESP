@@ -1,0 +1,3649 @@
+{
+  "Aimbot": [
+    {
+      "Aimlock": true,
+      "Fov": 4.91,
+      "Smooth": 8.01
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Aimbot Key mode": 0,
+  "Aimbot On key": false,
+  "Backtrack": {
+    "Time limit": 57
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#00ffea",
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Flash Duration": {
+          "Alpha": 1.0,
+          "Color": "#0119ff",
+          "Enabled": true
+        },
+        "Health Bar": {
+          "Enabled": true
+        },
+        "Name": {
+          "Alpha": 1.0,
+          "Color": "#00f407",
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#ed00f1",
+          "Enabled": true
+        },
+        "Snapline": {
+          "Alpha": 1.0,
+          "Color": "#f100cf"
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    },
+    "Projectiles": {
+      "All": {
+        "Box": {
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Snapline": {
+          "Alpha": 1.0,
+          "Color": "#f00000",
+          "Enabled": true
+        },
+        "Trails": {
+          "Allies": {
+            "Enabled": true
+          },
+          "Enabled": true,
+          "Enemies": {
+            "Enabled": true
+          },
+          "Local Player": {
+            "Enabled": true
+          }
+        }
+      }
+    },
+    "Toggle Key": "0"
+  },
+  "Inventory Changer": {
+    "Items": [
+      {
+        "Issue Date Timestamp": 1497268615,
+        "Item Name": "2017 Service Medal",
+        "Weapon ID": 1362
+      },
+      {
+        "Issue Date Timestamp": 1530342562,
+        "Item Name": "2018 Service Medal",
+        "Weapon ID": 1372
+      },
+      {
+        "Issue Date Timestamp": 1552276752,
+        "Item Name": "2019 Service Medal",
+        "Weapon ID": 1380
+      },
+      {
+        "Issue Date Timestamp": 1593793072,
+        "Item Name": "2020 Service Medal",
+        "Weapon ID": 4678
+      },
+      {
+        "Issue Date Timestamp": 1625507562,
+        "Item Name": "2021 Service Medal",
+        "Weapon ID": 4739
+      },
+      {
+        "Issue Date Timestamp": 1642954102,
+        "Item Name": "2022 Service Medal",
+        "Weapon ID": 4821
+      },
+      {
+        "Issue Date Timestamp": 1671056851,
+        "Item Name": "2023 Service Medal",
+        "Weapon ID": 4878
+      },
+      {
+        "Item Name": "Aces High Pin",
+        "Weapon ID": 6130
+      },
+      {
+        "Item Name": "5 Year Veteran Coin",
+        "Weapon ID": 874
+      },
+      {
+        "Item Name": "Abbey Map Coin",
+        "Weapon ID": 1056
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 724,
+        "Paint Kit Name": "Wild Lotus",
+        "Seed": 923,
+        "StatTrak": 0,
+        "Weapon ID": 7,
+        "Wear": 0.000991616
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 1105,
+        "Paint Kit Name": "Lore",
+        "Seed": 316,
+        "StatTrak": 0,
+        "Weapon ID": 515,
+        "Wear": 0.000866616
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 479,
+        "StatTrak": 0,
+        "Weapon ID": 500,
+        "Wear": 6.1791e-06
+      },
+      {
+        "Item Name": "Bayonet",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 272,
+        "StatTrak": 0,
+        "Weapon ID": 500,
+        "Wear": 5.4687e-06
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 413,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 912,
+        "StatTrak": 0,
+        "Weapon ID": 508,
+        "Wear": 9.3854e-06
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10048,
+        "Paint Kit Name": "Vice",
+        "Seed": 483,
+        "Weapon ID": 5030,
+        "Wear": 2.207e-05
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10037,
+        "Paint Kit Name": "Pandora's Box",
+        "Seed": 293,
+        "Weapon ID": 5030,
+        "Wear": 5.2386e-05
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10065,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 726,
+        "Weapon ID": 5034,
+        "Wear": 3.13e-05
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10045,
+        "Paint Kit Name": "Amphibious",
+        "Seed": 527,
+        "Weapon ID": 5030,
+        "Wear": 3.14e-05
+      },
+      {
+        "Item Name": "Specialist Gloves",
+        "Paint Kit": 10063,
+        "Paint Kit Name": "Fade",
+        "Seed": 998,
+        "Weapon ID": 5034,
+        "Wear": 0.073641695
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 233,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.027476287
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "Tec-9",
+        "Paint Kit": 889,
+        "Paint Kit Name": "Decimator",
+        "Seed": 724,
+        "StatTrak": 0,
+        "Weapon ID": 30,
+        "Wear": 0.021713814
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "USP-S",
+        "Paint Kit": 1142,
+        "Paint Kit Name": "Printstream",
+        "Seed": 956,
+        "StatTrak": 0,
+        "Weapon ID": 61,
+        "Wear": 0.0327022
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1026,
+        "Paint Kit Name": "Fade",
+        "Seed": 327,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.004332199
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 2,
+        "Item Name": "Glock-18",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 813,
+        "StatTrak": 0,
+        "Weapon ID": 4,
+        "Wear": 0.0053341854
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 14,
+        "Item Name": "FAMAS",
+        "Paint Kit": 919,
+        "Paint Kit Name": "Commemoration",
+        "Seed": 133,
+        "StatTrak": 0,
+        "Weapon ID": 10,
+        "Wear": 0.029454874
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 14,
+        "Item Name": "Galil AR",
+        "Paint Kit": 1038,
+        "Paint Kit Name": "Chromatic Aberration",
+        "Seed": 478,
+        "StatTrak": 0,
+        "Weapon ID": 13,
+        "Wear": 0.015862621
+      },
+      {
+        "Item Name": "G3SG1",
+        "Paint Kit": 1129,
+        "Paint Kit Name": "Dream Glade",
+        "Seed": 482,
+        "StatTrak": 0,
+        "Weapon ID": 11,
+        "Wear": 0.06571296
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 19,
+        "Item Name": "G3SG1",
+        "Paint Kit": 493,
+        "Paint Kit Name": "Flux",
+        "Seed": 40,
+        "StatTrak": 0,
+        "Weapon ID": 11,
+        "Wear": 0.01817606
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 16,
+        "Item Name": "SSG 08",
+        "Paint Kit": 624,
+        "Paint Kit Name": "Dragonfire",
+        "Seed": 796,
+        "StatTrak": 0,
+        "Weapon ID": 40,
+        "Wear": 0.00095702615
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 4,
+        "Item Name": "P250",
+        "Paint Kit": 678,
+        "Paint Kit Name": "See Ya Later",
+        "Seed": 764,
+        "StatTrak": 0,
+        "Weapon ID": 36,
+        "Wear": 0.0130801415
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 55,
+        "Item Name": "Howl Pin",
+        "Weapon ID": 6132
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 3,
+        "Item Name": "Dual Berettas",
+        "Paint Kit": 1126,
+        "Paint Kit Name": "Melondrama",
+        "Seed": 248,
+        "StatTrak": 0,
+        "Weapon ID": 2,
+        "Wear": 0.006985932
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 10,
+        "Item Name": "UMP-45",
+        "Paint Kit": 879,
+        "Paint Kit Name": "Fade",
+        "Seed": 657,
+        "StatTrak": 0,
+        "Weapon ID": 24,
+        "Wear": 0.0019907937
+      },
+      {
+        "Item Name": "MAC-10",
+        "Paint Kit": 947,
+        "Paint Kit Name": "Disco Tech",
+        "Seed": 759,
+        "StatTrak": 0,
+        "Weapon ID": 17,
+        "Wear": 0.054905057
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 11,
+        "Item Name": "P90",
+        "Paint Kit": 359,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 433,
+        "StatTrak": 0,
+        "Weapon ID": 19,
+        "Wear": 0.0073081115
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 12,
+        "Item Name": "PP-Bizon",
+        "Paint Kit": 542,
+        "Paint Kit Name": "Judgement of Anubis",
+        "Seed": 448,
+        "StatTrak": 0,
+        "Weapon ID": 26,
+        "Wear": 0.016648166
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 24,
+        "Item Name": "Negev",
+        "Paint Kit": 514,
+        "Paint Kit Name": "Power Loader",
+        "Seed": 498,
+        "StatTrak": 0,
+        "Weapon ID": 28,
+        "Wear": 0.031451978
+      },
+      {
+        "Equipped": [
+          "CT",
+          "TT"
+        ],
+        "Equipped Slot": 23,
+        "Item Name": "M249",
+        "Paint Kit": 472,
+        "Paint Kit Name": "Impact Drill",
+        "Seed": 434,
+        "StatTrak": 0,
+        "Weapon ID": 14,
+        "Wear": 0.010702247
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 312,
+        "Paint Kit Name": "Cyrex",
+        "Seed": 618,
+        "StatTrak": 0,
+        "Weapon ID": 38,
+        "Wear": 0.013345534
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 19,
+        "Item Name": "SCAR-20",
+        "Paint Kit": 597,
+        "Paint Kit Name": "Bloodsport",
+        "Seed": 523,
+        "StatTrak": 0,
+        "Weapon ID": 38,
+        "Wear": 0.027084814
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 165,
+        "Paint Kit Name": "Splash Jam",
+        "Seed": 426,
+        "StatTrak": 0,
+        "Weapon ID": 38,
+        "Wear": 0.069953404
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 17,
+        "Item Name": "AUG",
+        "Paint Kit": 455,
+        "Paint Kit Name": "Akihabara Accept",
+        "Seed": 416,
+        "StatTrak": 0,
+        "Weapon ID": 8,
+        "Wear": 0.024463698
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 65,
+        "StatTrak": 0,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 148,
+        "StatTrak": 0,
+        "Weapon ID": 525,
+        "Wear": 0.0018387536
+      },
+      {
+        "Item Name": "Name Tag",
+        "Weapon ID": 1200
+      },
+      {
+        "Item Name": "Name Tag",
+        "Weapon ID": 1200
+      },
+      {
+        "Item Name": "Name Tag",
+        "Weapon ID": 1200
+      },
+      {
+        "Item Name": "Name Tag",
+        "Weapon ID": 1200
+      },
+      {
+        "Item Name": "Name Tag",
+        "Weapon ID": 1200
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Name Tag": "金钱和婚姻可以错过，但架狙不行",
+        "Paint Kit": 756,
+        "Paint Kit Name": "Gungnir",
+        "Seed": 767,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.022893088
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "AK-47",
+        "Name Tag": "拿起来看看自己配么？",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 661,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 5.201314e-05
+      },
+      {
+        "Item Name": "AK-47",
+        "Name Tag": "拿起来我就是神",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 661,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 53
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 2.33333e-05
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Name Tag": "混血蓝",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 478,
+        "StatTrak": 0,
+        "Weapon ID": 515,
+        "Wear": 0.021173077
+      },
+      {
+        "Item Name": "M4A4",
+        "Name Tag": "女人和孩子可以犯错，但突破不行",
+        "Paint Kit": 309,
+        "Paint Kit Name": "Howl",
+        "Seed": 874,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 16,
+        "Wear": 0.025835922
+      },
+      {
+        "Item Name": "AK-47",
+        "Name Tag": "犹豫就会败北，果断就会白给",
+        "Paint Kit": 302,
+        "Paint Kit Name": "Vulcan",
+        "Seed": 910,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 0.01143259
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 18,
+        "Item Name": "AWP",
+        "Paint Kit": 344,
+        "Paint Kit Name": "Dragon Lore",
+        "Seed": 740,
+        "StatTrak": 2,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 2908
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 2737
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 2920
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 2914
+          }
+        ],
+        "Tournament ID": 13,
+        "Tournament Player": 1162165,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 69,
+        "Tournament Team 2": 73,
+        "Weapon ID": 9,
+        "Wear": 0.000666666
+      },
+      {
+        "Item Name": "AK-47",
+        "Name Tag": "十步杀一人，千里不留行",
+        "Paint Kit": 724,
+        "Paint Kit Name": "Wild Lotus",
+        "Seed": 439,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 0.052751917
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Name Tag": "一枝红艳露凝香，云雨巫山枉断肠",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 182,
+        "StatTrak": 0,
+        "Weapon ID": 515,
+        "Wear": 0.022666285
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "Desert Eagle",
+        "Name Tag": "杀一人为罪，杀万人为雄",
+        "Paint Kit": 37,
+        "Paint Kit Name": "Blaze",
+        "Seed": 149,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.0043669385
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 6,
+        "Item Name": "Desert Eagle",
+        "Name Tag": "$700的大狙",
+        "Paint Kit": 962,
+        "Paint Kit Name": "Printstream",
+        "Seed": 937,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 1,
+        "Wear": 0.01661097
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "EMS Katowice 2014 Legends",
+        "Storage Unit ID": 3,
+        "Weapon ID": 4015
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 34,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 5,
+        "Tournament Team 2": 6,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 8,
+        "Tournament Team 1": 26,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 2,
+        "Tournament Team 1": 1,
+        "Tournament Team 2": 35,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 11,
+        "Tournament Team 1": 6,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "Storage Unit ID": 2,
+        "Tournament Player": 0,
+        "Tournament Stage": 5,
+        "Tournament Team 1": 33,
+        "Tournament Team 2": 1,
+        "Weapon ID": 4027
+      },
+      {
+        "Item Name": "Storage Unit",
+        "Modification Date Timestamp": 1671322341,
+        "Name": "Dragon Lore Cases",
+        "Storage Unit ID": 2,
+        "Weapon ID": 1201
+      },
+      {
+        "Item Name": "Storage Unit",
+        "Modification Date Timestamp": 1671322334,
+        "Name": "Titans",
+        "Storage Unit ID": 3,
+        "Weapon ID": 1201
+      },
+      {
+        "Item Name": "Storage Unit",
+        "Modification Date Timestamp": 1676059935,
+        "Name": "Stickers",
+        "Storage Unit ID": 1,
+        "Weapon ID": 1201
+      },
+      {
+        "Item Name": "Nomad Knife",
+        "Name Tag": "但使A包飞将在，不教胡马阴山",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 577,
+        "StatTrak": 0,
+        "Weapon ID": 521,
+        "Wear": 0.03737479
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 984,
+        "Paint Kit Name": "Printstream",
+        "Seed": 879,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 60,
+        "Wear": 0.011594119
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 805,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.22166726
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 819,
+        "Paint Kit Name": "Desert Hydra",
+        "Seed": 141,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.028431008
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 803,
+        "Paint Kit Name": "Neo-Noir",
+        "Seed": 32,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.009671529
+      },
+      {
+        "Item Name": "Stiletto Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 182,
+        "StatTrak": 0,
+        "Weapon ID": 522,
+        "Wear": 0.060103305
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 44,
+        "StatTrak": 0,
+        "Weapon ID": 507,
+        "Wear": 0.002976945
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 808,
+        "StatTrak": 0,
+        "Weapon ID": 507,
+        "Wear": 0.0014991785
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 367,
+        "StatTrak": 0,
+        "Weapon ID": 519,
+        "Wear": 0.002170822
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 27,
+        "StatTrak": 0,
+        "Weapon ID": 507,
+        "Wear": 0.004946814
+      },
+      {
+        "Item Name": "Ursus Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 972,
+        "StatTrak": 0,
+        "Weapon ID": 519,
+        "Wear": 0.0005477882
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 494,
+        "StatTrak": 0,
+        "Weapon ID": 515,
+        "Wear": 0.00042555574
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 51,
+        "Paint Kit Name": "Lightning Strike",
+        "Seed": 339,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 6.925509e-05
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 653,
+        "StatTrak": 0,
+        "Weapon ID": 505,
+        "Wear": 0.00468215
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 7,
+        "StatTrak": 0,
+        "Weapon ID": 505,
+        "Wear": 0.002566292
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 324,
+        "StatTrak": 0,
+        "Weapon ID": 512,
+        "Wear": 0.0033781433
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 38,
+        "Item Name": "Number K | The Professionals",
+        "Patches": [
+          {
+            "Patch ID": 4557,
+            "Slot": 0
+          }
+        ],
+        "Weapon ID": 4732
+      },
+      {
+        "Item Name": "Skeleton Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 468,
+        "StatTrak": 0,
+        "Weapon ID": 525,
+        "Wear": 0.06781762
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 387,
+        "StatTrak": 0,
+        "Weapon ID": 507,
+        "Wear": 0.03836674
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 222,
+        "StatTrak": 0,
+        "Weapon ID": 523,
+        "Wear": 0.055049237
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 222,
+        "StatTrak": 0,
+        "Weapon ID": 523,
+        "Wear": 0.06400088
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 76,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 60,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 70,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 74,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 53,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 62,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 80,
+        "Storage Unit ID": 1,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 1228,
+        "Paint Kit Name": "Temukau",
+        "Seed": 783,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 76
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 76
+          }
+        ],
+        "Weapon ID": 16,
+        "Wear": 0.018959217
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 1221,
+        "Paint Kit Name": "Head Shot",
+        "Seed": 326,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 53
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 53
+          }
+        ],
+        "Weapon ID": 7,
+        "Wear": 0.032095034
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 15,
+        "Item Name": "M4A4",
+        "Paint Kit": 309,
+        "Paint Kit Name": "Howl",
+        "Seed": 474,
+        "StatTrak": 1,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 60
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 60
+          }
+        ],
+        "Weapon ID": 16,
+        "Wear": 0.013605102
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 1222,
+        "Paint Kit Name": "Duality",
+        "Seed": 154,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.04862192
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 5,
+        "Item Name": "Five-SeveN",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 690,
+        "StatTrak": 0,
+        "Weapon ID": 3,
+        "Wear": 0.056335233
+      },
+      {
+        "Item Name": "Paracord Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 468,
+        "StatTrak": 0,
+        "Weapon ID": 517,
+        "Wear": 0.06925707
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 916,
+        "StatTrak": 0,
+        "Weapon ID": 508,
+        "Wear": 0.00084094267
+      },
+      {
+        "Item Name": "M9 Bayonet",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 78,
+        "StatTrak": 0,
+        "Weapon ID": 508,
+        "Wear": 0.0006722912
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 736,
+        "Paint Kit Name": "The Prince",
+        "Seed": 453,
+        "StatTrak": 0,
+        "Stickers": [
+          {
+            "Slot": 0,
+            "Sticker ID": 2908
+          },
+          {
+            "Slot": 1,
+            "Sticker ID": 2737
+          },
+          {
+            "Slot": 2,
+            "Sticker ID": 2920
+          },
+          {
+            "Slot": 3,
+            "Sticker ID": 2914
+          }
+        ],
+        "Weapon ID": 9,
+        "Wear": 0.018290205
+      },
+      {
+        "Item Name": "AWP",
+        "Name Tag": "World #1 0.000006",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 806,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 6.2342e-06
+      },
+      {
+        "Item Name": "AWP",
+        "Name Tag": "World #1 0.99999",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 831,
+        "StatTrak": 0,
+        "Weapon ID": 9,
+        "Wear": 0.99999833
+      },
+      {
+        "Item Name": "Falchion Knife",
+        "Paint Kit": 44,
+        "Paint Kit Name": "Case Hardened",
+        "Seed": 494,
+        "Weapon ID": 512,
+        "Wear": 0.0443699
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 416,
+        "Paint Kit Name": "Doppler",
+        "Seed": 150,
+        "Weapon ID": 523,
+        "Wear": 0.00016156258
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 856,
+        "Paint Kit Name": "Marble Fade",
+        "Seed": 243,
+        "Weapon ID": 523,
+        "Wear": 4.39935e-05
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 415,
+        "Paint Kit Name": "Doppler",
+        "Seed": 887,
+        "Weapon ID": 523,
+        "Wear": 6.27236e-05
+      },
+      {
+        "Item Name": "Talon Knife",
+        "Paint Kit": 143,
+        "Paint Kit Name": "Urban Masked",
+        "Seed": 819,
+        "Weapon ID": 523,
+        "Wear": 6.999e-05
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10070,
+        "Paint Kit Name": "Snow Leopard",
+        "Seed": 619,
+        "Weapon ID": 5031,
+        "Wear": 9.107e-05
+      },
+      {
+        "Item Name": "Sport Gloves",
+        "Paint Kit": 10047,
+        "Paint Kit Name": "Omega",
+        "Seed": 302,
+        "Weapon ID": 5030,
+        "Wear": 3.038e-05
+      },
+      {
+        "Equipped": [
+          "TT"
+        ],
+        "Equipped Slot": 41,
+        "Item Name": "Driver Gloves",
+        "Paint Kit": 10041,
+        "Paint Kit Name": "King Snake",
+        "Seed": 943,
+        "Weapon ID": 5031,
+        "Wear": 2.012e-05
+      },
+      {
+        "Item Name": "Hand Wraps",
+        "Paint Kit": 10084,
+        "Paint Kit Name": "CAUTION!",
+        "Seed": 920,
+        "Weapon ID": 5032,
+        "Wear": 0.084734045
+      },
+      {
+        "Item Name": "Hand Wraps",
+        "Paint Kit": 10053,
+        "Paint Kit Name": "Cobalt Skulls",
+        "Seed": 122,
+        "Weapon ID": 5032,
+        "Wear": 0.071029015
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 24,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 69,
+        "Weapon ID": 1314
+      },
+      {
+        "Equipped": [
+          "NOTEAM"
+        ],
+        "Equipped Slot": 54,
+        "Item Name": "Music Kit",
+        "Music ID": 15,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "Sir Bloody Miami Darryl | The Professionals",
+        "Weapon ID": 4726
+      },
+      {
+        "Equipped": [
+          "CT"
+        ],
+        "Equipped Slot": 0,
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 619,
+        "Paint Kit Name": "Doppler",
+        "Seed": 838,
+        "Weapon ID": 515,
+        "Wear": 0.0024635608
+      }
+    ],
+    "Version": 4
+  },
+  "Misc": {
+    "Anti AFK kick": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Fast Stop": true,
+    "Fast plant": true,
+    "Grenade predict": true,
+    "Reportbot": {
+      "Abusive Communications": true,
+      "Griefing": true
+    },
+    "Reveal money": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Reveal votes": true,
+    "Spectator list": {
+      "Enabled": true
+    }
+  },
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.2
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    }
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "No 3d sky": true,
+    "No grass": true,
+    "No shadows": true,
+    "Sky": {
+      "Color": [
+        0.9766345,
+        0.97662574,
+        0.9766355
+      ],
+      "Enabled": true
+    },
+    "World": {
+      "Color": [
+        1.0,
+        0.0,
+        0.78571415
+      ]
+    }
+  }
+}
